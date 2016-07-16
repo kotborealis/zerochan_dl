@@ -1,7 +1,7 @@
 {
   "name": "zerochan_dl",
-  "version": "1.0.5",
-  "description": "",
+  "version": "1.0.7",
+  "description": "zerochan.net image downloader",
   "main": "index.js",
   "author": "",
   "license": "ISC",
@@ -11,5 +11,6 @@
   "dependencies": {
     "cheerio": "^0.20.0",
     "request": "^2.72.0"
-  }
+  },
+  "repository": "kotborealis/zerochan_dl"
 }
